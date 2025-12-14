@@ -1,25 +1,18 @@
 {
-  "panelType": "xboard",
-  "panels": {
-    "lingspeed": [
-      {
-        "url": "https://app.wyun.im",
-        "description": "凌速加速器"
-      }
+    "panels": {
+        "mihomo": [
+            {
+                "url": "https://app.wyun.im",
+                "description": "主面板"
+            }
+        ]
+    },
+    "onlineSupport": [
+        {
+            "url": "https://chat.example.com",
+            "description": "在线客服",
+            "apiBaseUrl": "https://chat.example.com",
+            "wsBaseUrl": "wss://chat.example.com"
+        }
     ]
-  },
-  "onlineSupport": [
-    {
-      "url": "https://chat.example.com",
-      "description": "在线客服",
-      "apiBaseUrl": "https://chat.example.com",
-      "wsBaseUrl": "wss://chat.example.com"
-    }
-  ],
-  "proxy": [
-    {
-      "url": "socks5://UNzo275i7h:8jxeQKO8oL@45.207.216.8:38769",
-      "description": "proxy"
-    }
-  ]
 }
