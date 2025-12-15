@@ -7,7 +7,6 @@
                 "url": "https://app.wyun.im",
                 "description": "自动生成的域名 - wujie"
             }
-            // 如需添加其他面板，在这里取消注释或新增
         ]
     },
     "proxy": [],
@@ -16,6 +15,5 @@
     "onlineSupport": [],
     "subscription": {
         "urls": []
-        // 需要订阅时，在这里添加对象
     }
 }
