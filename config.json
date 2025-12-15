@@ -7,7 +7,10 @@
                 "url": "https://app.wyun.im",
                 "description": "自动生成的域名 - wujie"
             }
-            
+            {
+                "url": "https://www.wyun.im",
+                "description": "服务器1-应用"
+            }
         ]
     },
     "proxy": [],
