@@ -13,7 +13,13 @@
             }
         ]
     },
-    "proxy": [],
+    "proxy": [
+        {
+            "url": "socks5://UNzo275i7h:8jxeQKO8oL@45.207.216.8:38769",
+            "description": "proxy",
+            "protocol": "s5"
+        }
+    ],
     "ws": [],
     "update": [],
     "onlineSupport": [        
